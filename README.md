@@ -1,6 +1,8 @@
 # SubsReminder
 <b>Swift "SubsReminder" app </b> - subscription manager with many settings and notifications
 
+<a href="https://www.youtube.com/watch?v=chR5q4R13xU">Video demonstration on YouTube</a>
+
 <p>
 <img src="https://user-images.githubusercontent.com/54905627/150414727-e9af6352-f23c-42bb-8380-8dea99b23c77.png" width="200">
 <img src="https://user-images.githubusercontent.com/54905627/150414797-75bf67ce-63d0-473e-b795-830b0de5b7e1.png" width="200">
@@ -17,4 +19,4 @@
 
 ## Availability
 
-iOS 14.0 +
+iPhone/iPad (iOS/iPadOS 14.0 +)
